@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring AI/ML Engineer | Computer Engineering Student at Kathmandu University</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F7931E&center=true&vCenter=true&width=435&lines=Always+Learning+Something+New!;AI+%7C+ML+%7C+Data+Science;Full-Stack+%7C+Python+%7C+Next.js" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F7931E&center=true&vCenter=true&width=435&lines=Always+Learning+Something+New!;" alt="Typing SVG" />
 </p>
 
 ---
