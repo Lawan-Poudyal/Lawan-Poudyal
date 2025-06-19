@@ -36,8 +36,8 @@
 
 <p align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=lawan-poudyal&show_icons=true&theme=radical" width="48%" />-->
-  <img src="https://github-readme-stats.vercel.app/api?username=lawan-poudyal&show_icons=true&theme=radical" width="48%" />
-      <img src="https://streak-stats.demolab.com/?user=lawan-poudyal&theme=radical" width="48%" />
+ <!-- <img src="https://github-readme-stats.vercel.app/api?username=lawan-poudyal&show_icons=true&theme=radical" width="48%" />
+      --> <img src="https://streak-stats.demolab.com/?user=lawan-poudyal&theme=radical" width="48%" />
 
 </p>
 
