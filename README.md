@@ -3,6 +3,7 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F7931E&center=true&vCenter=true&width=435&lines=Always+Learning+Something+New!;" alt="Typing SVG" />
+
 </p>
 
 ---
@@ -36,6 +37,8 @@
 <p align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=lawan-poudyal&show_icons=true&theme=radical" width="48%" />-->
   <img src="https://github-readme-stats.vercel.app/api?username=lawan-poudyal&show_icons=true&theme=radical" width="48%" />
+      <img src="https://streak-stats.demolab.com/?user=lawan-poudyal&theme=radical" width="48%" />
+
 </p>
 
 <!--<p align="center">
