@@ -34,15 +34,13 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=lawan-poudyal&show_icons=true&theme=radical" width="48%" /> -->
-  
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lawan-poudyal&show_icons=true&theme=radical" width="48%" />
   
+[![GitHub Streak](https://github-readme-streak-stats-zeta-silk.vercel.app?user=lawan-poudyal&theme=radical)](https://git.io/streak-stats)
+
+</div>
  
-<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=lawan-poudyal&locale=sa)](https://git.io/streak-stats)
--->
-</p>
 
 <!--<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lawan-poudyal&layout=compact&theme=radical" width="48%" />
